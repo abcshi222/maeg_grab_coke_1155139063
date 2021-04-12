@@ -49,7 +49,7 @@ sudo apt-get update && apt-get install -y ros-noetic-joy ros-noetic-costmap-2d r
   ros-noetic-force-torque-sensor-controller ros-noetic-gripper-action-controller ros-noetic-imu-sensor-controller ros-noetic-position-controllers \
   ros-noetic-ros-control ros-noetic-ros-controllers ros-noetic-rqt-joint-trajectory-controller ros-noetic-velocity-controllers ros-noetic-cv-bridge \
   ros-noetic-polled-camera ros-noetic-camera-info-manager ros-noetic-tf-conversions ros-noetic-opencv-apps libopencv-dev ros-noetic-rqt \
-  ros-noetic-rqt-common-plugins ros-noetic-ur-client-library libeigen3-dev liburdfdom-tools 
+  ros-noetic-rqt-common-plugins ros-noetic-ur-client-library libeigen3-dev liburdfdom-tools ros-noetic-navigation ros-noetic-moveit ros-noetic-gazebo-ros ros-noetic-tf2-tools
   
 ## Obsolete Packages:
 ##  ros-melodic-controller-manager-tests ros-kinetic-ur-description ros-kinetic-ur-gazebo ros-kinetic-stdr-simulator
